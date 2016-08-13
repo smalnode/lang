@@ -1,7 +1,7 @@
 import os
 import sys
 
-vdosubfixs = ['.wmv', '.avi', '.rmvb', '.mp4', 'mkv', '.jpg']
+vdosubfixs = ['.wmv', '.avi', '.rmvb', '.mp4', '.mkv', '.jpg']
 
 def isVdoFile(fl):
     for subfix in vdosubfixs:
