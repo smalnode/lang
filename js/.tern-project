@@ -1,0 +1,13 @@
+{
+  "libs": [
+    "mysql",
+    "squel",
+    "socket.io",
+    "http"
+  ],
+  "loadEagerly": [
+  ],
+  "plugins": {
+      "node": {}
+  }
+}
