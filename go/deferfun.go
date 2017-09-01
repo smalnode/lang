@@ -6,6 +6,7 @@ func f() (ret int) {
 	defer func() {
 		ret++
 	}()
+	ret = 2
 	return
 }
 
